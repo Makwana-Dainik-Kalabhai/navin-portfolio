@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="180" y1="70" x2="1380" y2="940" gradientUnits="userSpaceOnUse"><stop stop-color="#F1F5FF"/><stop offset="1" stop-color="#C6D8FF"/></linearGradient>
+    <linearGradient id="sky" x1="750" y1="100" x2="750" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#B5DCFF"/><stop offset="1" stop-color="#F7D5E4"/></linearGradient>
+    <linearGradient id="accent" x1="450" y1="200" x2="1210" y2="830" gradientUnits="userSpaceOnUse"><stop stop-color="#695BFF"/><stop offset="1" stop-color="#17CDB2"/></linearGradient>
+    <filter id="shadow" x="305" y="102" width="1065" height="824" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1600" height="1000" rx="42" fill="url(#bg)"/>
+  <circle cx="1320" cy="170" r="210" fill="#FFB8CF" fill-opacity=".48"/><circle cx="300" cy="840" r="245" fill="#94E9D8" fill-opacity=".45"/>
+  <rect x="365" y="162" width="870" height="686" rx="30" fill="#17305B" fill-opacity=".24" filter="url(#shadow)"/>
+  <rect x="395" y="116" width="810" height="748" rx="30" fill="#fff"/>
+  <path d="M395 146a30 30 0 0 1 30-30h750a30 30 0 0 1 30 30v60H395v-60Z" fill="#F9FAFF"/>
+  <circle cx="437" cy="162" r="8" fill="#FF8290"/><circle cx="467" cy="162" r="8" fill="#FFC95E"/><circle cx="497" cy="162" r="8" fill="#57D9B1"/>
+  <rect x="694" y="145" width="342" height="34" rx="17" fill="#E9EDF7"/><text x="755" y="168" fill="#78839C" font-family="Arial,sans-serif" font-size="14">2expedition.com</text>
+  <rect x="430" y="228" width="740" height="382" rx="20" fill="url(#sky)"/>
+  <circle cx="1000" cy="316" r="61" fill="#FFE7A5"/>
+  <path d="M430 503 594 363l133 113 122-89 147 126 174-153v250H430V503Z" fill="#91B8DF"/>
+  <path d="m430 544 190-113 117 117 139-74 137 96 157-88v128H430V544Z" fill="#718FCE"/>
+  <path d="m430 572 178-47 161 58 159-41 133 42 109-23v49H430v-38Z" fill="#568B9A"/>
+  <path d="M500 292h186" stroke="#fff" stroke-width="13" stroke-linecap="round"/><path d="M500 328h130" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-opacity=".72"/>
+  <rect x="460" y="642" width="454" height="20" rx="10" fill="#DFE5F2"/><rect x="460" y="681" width="330" height="13" rx="6.5" fill="#E9EDF5"/>
+  <rect x="460" y="730" width="194" height="58" rx="29" fill="url(#accent)"/><text x="500" y="766" fill="#fff" font-family="Arial,sans-serif" font-size="19" font-weight="700">EXPLORE TRIPS</text>
+  <path d="M1133 235c-17-7-35 8-27 24l35 69-47 45c-12 12-4 32 13 32l78-2 39 69c9 15 31 10 34-7l13-77 67-40c15-9 10-32-8-34l-80-9-35-70c-8-16-31-13-35 5l-13 64-34-69Z" fill="#fff" fill-opacity=".84"/>
+  <text x="1140" y="816" fill="#45597D" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">TRAVEL · DISCOVER · GO</text>
+</svg>
